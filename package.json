@@ -1,0 +1,14 @@
+{
+  "name": "modue-9",
+  "version": "1.0.0",
+  "description": "Quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
