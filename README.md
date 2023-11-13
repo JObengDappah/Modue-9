@@ -1,4 +1,4 @@
-# Read
+# README-Generator
 
 ## Table of Contents
 
