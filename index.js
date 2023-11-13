@@ -130,7 +130,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
   inquirer.prompt(questions).then(readmeData => {
-    writeToFile("./dist/README.md", generateMarkdown(readmeData));
+    writeToFile("./output/README.md", generateMarkdown(readmeData));
   });
 }
 
