@@ -20,7 +20,7 @@
 
 ## Usage
 
-  by running it through the git terminal
+[Video Link}(https://drive.google.com/file/d/1Xh3pqMGAjepWAaWo0sCpS_cqxZCDk5MX/view?usp=drive_link)
 
 ## License
 
